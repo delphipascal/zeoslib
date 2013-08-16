@@ -1,4 +1,4 @@
-zeos
+ZeosLib
 ====
 
-Just a mirror of Zeos Database Object library
+Just a mirror of Zeos Database Object library with patches.
